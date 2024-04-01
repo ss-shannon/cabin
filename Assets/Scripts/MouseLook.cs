@@ -8,16 +8,16 @@ using UnityEngine;
 public class MouseLook : MonoBehaviour
 {
     [Tooltip("The amount of influence mouse input has on camera movement. Must have a value above 0.")]
-    [SerializeField] private float sensitivity;
+    [SerializeField] private float sensitivity = 2f;
     [Tooltip("The amount of 'drag' applied to the camera. Must have a value above 0.")]
-    [SerializeField] private float drag;
+    [SerializeField] private float drag = 3f;
     [Tooltip("The minimum and maximum angle that the camera can move on the y axis.")]
     [SerializeField] private Vector2 verticalClamp = new Vector2(-45, 70);
     
     private Vector2 smoothing;
     private Vector2 result;
     private Transform character;
-    private bool mouseLookEnabled = false;
+    private bool mouseLookEnabled = true;
 
     /// <summary>
     /// Use to turn mouse look on and off. To toggle cursor, use ToggleMouseLook method.
