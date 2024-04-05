@@ -4843,7 +4843,7 @@ GameObject:
   - component: {fileID: 641475111526193204}
   - component: {fileID: 3968940479185360135}
   - component: {fileID: 5666415029441881942}
-  - component: {fileID: 3737405077343688268}
+  - component: {fileID: -4541897332786870505}
   m_Layer: 0
   m_Name: Navigation Waypoint
   m_TagString: Untagged
@@ -4952,8 +4952,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77a3f986751560943823a83b1ff4139f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  interactClip: {fileID: 8300000, guid: a1272d7a26b48b74699da337903ac727, type: 3}
---- !u!82 &3737405077343688268
+  interactClip: {fileID: 8300000, guid: be64601460d34224fb090d74c465a856, type: 3}
+--- !u!82 &-4541897332786870505
 AudioSource:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4963,7 +4963,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: a1272d7a26b48b74699da337903ac727, type: 3}
+  m_audioClip: {fileID: 8300000, guid: be64601460d34224fb090d74c465a856, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
