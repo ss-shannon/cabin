@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\assessment3\\cabin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D761A5E-7C39-0020-3536-7BC940F14F7D}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Documents\\GitHub\\assessment3\\cabin\\assets\\scripts\\digitaltooltip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D761A5E-7C39-0020-3536-7BC940F14F7D}|Assembly-CSharp.csproj|c:\\users\\admin\\documents\\github\\assessment3\\cabin\\assets\\scripts\\digitaltooltip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D761A5E-7C39-0020-3536-7BC940F14F7D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\digitaltooltip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{9D761A5E-7C39-0020-3536-7BC940F14F7D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mouselook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D761A5E-7C39-0020-3536-7BC940F14F7D}|Assembly-CSharp.csproj|c:\\users\\admin\\documents\\github\\assessment3\\cabin\\assets\\scripts\\interaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D761A5E-7C39-0020-3536-7BC940F14F7D}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Documents\\GitHub\\assessment3\\cabin\\assets\\scripts\\interaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D761A5E-7C39-0020-3536-7BC940F14F7D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -66,8 +66,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Interaction.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T16:00:53.477Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-01T16:00:53.477Z"
             },
             {
               "$type": "Document",
@@ -77,7 +76,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\DigitalTooltip.cs",
               "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\assessment3\\cabin\\Assets\\Scripts\\DigitalTooltip.cs",
               "RelativeToolTip": "Assets\\Scripts\\DigitalTooltip.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAHkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-01T15:46:18.935Z",
               "EditorCaption": ""
@@ -92,8 +91,7 @@
               "RelativeToolTip": "Assets\\Scripts\\MouseLook.cs",
               "ViewState": "AQIAAD8AAAAAAAAAAAAAACgAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T15:22:51.459Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-01T15:22:51.459Z"
             }
           ]
         }
