@@ -2,6 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// Edited by Shannon 5/04/2024
+
 /// <summary>
 /// This class should be attached to the objects used for navigation waypoints.
 /// </summary>
@@ -9,6 +11,9 @@ public class NavigationWaypoint : InteractableObject
 {
     [Tooltip("This is the audio clip that will play when notes are opened/closed.")]
     [SerializeField] private AudioClip interactClip;
+
+    // Teleporting the player slightly above the Navigation Waypoint.
+    private Vector3 offset = new Vector3(0, 1.5f, 0);
 
     private ParticleSystem particles;
     private Collider objectCollider;
@@ -61,7 +66,7 @@ public class NavigationWaypoint : InteractableObject
                 Interaction.Instance.CurrentWaypoint.Deactivate();
             }
             Interaction.Instance.CurrentWaypoint = this;
-            Interaction.Instance.transform.parent.position = transform.position;
+            Interaction.Instance.transform.parent.position = transform.position + offset;
             if (objectCollider != null)
             {
                 objectCollider.enabled = false;
