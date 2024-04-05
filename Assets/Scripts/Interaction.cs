@@ -11,7 +11,7 @@ public class Interaction : MonoBehaviour
     [Tooltip("Turn on to receive debug messages from this instance of the script.")]
     [SerializeField] private bool debug = true;
     [Tooltip("The distance from the player that objects can be interacted with.")]
-    [SerializeField] private float reach = 15f;
+    [SerializeField] private float reach = 30f;
     [Tooltip("Must reference the crosshair UI image.")]
     [SerializeField] private Image crosshair;
 
