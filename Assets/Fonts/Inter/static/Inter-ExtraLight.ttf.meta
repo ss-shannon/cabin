@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2340c12de32722a4eb0b7a4ac839fc31
+guid: fe9001a11a363e54cac8eba935fb2cf1
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - Big Shoulders Inline Display
+  - Inter
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0

@@ -67,9 +67,6 @@
     <Compile Include="Assets\Scripts\DigitalTooltip.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\Fonts\Big_Shoulders_Inline_Display\OFL.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <Reference Include="UnityEngine">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.14f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
       <Private>False</Private>

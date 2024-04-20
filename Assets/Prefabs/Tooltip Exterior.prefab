@@ -88,7 +88,7 @@ MonoBehaviour:
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
-  m_DynamicPixelsPerUnit: 1
+  m_DynamicPixelsPerUnit: 2
   m_PresetInfoIsWorld: 1
 --- !u!114 &3689440530840220355
 MonoBehaviour:
@@ -275,7 +275,7 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 300, y: 200, z: 20}
+  m_Size: {x: 200, y: 200, z: 20}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &959579405340727006
 GameObject:
