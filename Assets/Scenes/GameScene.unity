@@ -10720,6 +10720,11 @@ PrefabInstance:
       value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 7279274234595892659, guid: aea53e98f05846641a8d19258ee89cac, type: 3}
+      propertyPath: m_Text
+      value: Includes a working fireplace to help keep warm during the colder months
+        of winter.
+      objectReference: {fileID: 0}
+    - target: {fileID: 7279274234595892659, guid: aea53e98f05846641a8d19258ee89cac, type: 3}
       propertyPath: m_Color.b
       value: 0
       objectReference: {fileID: 0}
