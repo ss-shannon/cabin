@@ -1372,6 +1372,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: 'Tooltip Bathroom '
       objectReference: {fileID: 0}
+    - target: {fileID: 7279274234595892659, guid: aea53e98f05846641a8d19258ee89cac, type: 3}
+      propertyPath: m_FontData.m_FontStyle
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7442276622112641529, guid: aea53e98f05846641a8d19258ee89cac, type: 3}
       propertyPath: m_Camera
       value: 
@@ -3860,7 +3864,7 @@ PrefabInstance:
       objectReference: {fileID: 12800000, guid: 68709e64f0afcd944b36158e56bc3d5c, type: 3}
     - target: {fileID: 7279274234595892659, guid: aea53e98f05846641a8d19258ee89cac, type: 3}
       propertyPath: m_FontData.m_FontStyle
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7442276622112641529, guid: aea53e98f05846641a8d19258ee89cac, type: 3}
       propertyPath: m_Camera
@@ -4620,7 +4624,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5717580532678304193, guid: 171122360a439974b964f560dcf7047d, type: 3}
       propertyPath: m_FontData.m_FontStyle
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5717580532678304193, guid: 171122360a439974b964f560dcf7047d, type: 3}
       propertyPath: m_FontData.m_AlignByGeometry
@@ -8782,7 +8786,7 @@ MonoBehaviour:
   m_FontData:
     m_Font: {fileID: 12800000, guid: 68709e64f0afcd944b36158e56bc3d5c, type: 3}
     m_FontSize: 10
-    m_FontStyle: 0
+    m_FontStyle: 1
     m_BestFit: 1
     m_MinSize: 10
     m_MaxSize: 100
@@ -9632,7 +9636,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7279274234595892659, guid: aea53e98f05846641a8d19258ee89cac, type: 3}
       propertyPath: m_FontData.m_FontStyle
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7442276622112641529, guid: aea53e98f05846641a8d19258ee89cac, type: 3}
       propertyPath: m_Camera
@@ -10766,7 +10770,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7279274234595892659, guid: aea53e98f05846641a8d19258ee89cac, type: 3}
       propertyPath: m_FontData.m_FontStyle
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7442276622112641529, guid: aea53e98f05846641a8d19258ee89cac, type: 3}
       propertyPath: m_Camera
