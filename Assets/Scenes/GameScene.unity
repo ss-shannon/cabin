@@ -1376,6 +1376,10 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 596709909}
+    - target: {fileID: 8903612673911429267, guid: aea53e98f05846641a8d19258ee89cac, type: 3}
+      propertyPath: m_DynamicPixelsPerUnit
+      value: 5
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3862,6 +3866,10 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 596709909}
+    - target: {fileID: 8903612673911429267, guid: aea53e98f05846641a8d19258ee89cac, type: 3}
+      propertyPath: m_DynamicPixelsPerUnit
+      value: 5
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4617,6 +4625,10 @@ PrefabInstance:
     - target: {fileID: 5717580532678304193, guid: 171122360a439974b964f560dcf7047d, type: 3}
       propertyPath: m_FontData.m_AlignByGeometry
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6974659329799630489, guid: 171122360a439974b964f560dcf7047d, type: 3}
+      propertyPath: m_DynamicPixelsPerUnit
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7023735509884608689, guid: 171122360a439974b964f560dcf7047d, type: 3}
       propertyPath: m_SizeDelta.x
@@ -9626,6 +9638,10 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 596709909}
+    - target: {fileID: 8903612673911429267, guid: aea53e98f05846641a8d19258ee89cac, type: 3}
+      propertyPath: m_DynamicPixelsPerUnit
+      value: 5
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10758,7 +10774,7 @@ PrefabInstance:
       objectReference: {fileID: 596709909}
     - target: {fileID: 8903612673911429267, guid: aea53e98f05846641a8d19258ee89cac, type: 3}
       propertyPath: m_DynamicPixelsPerUnit
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12532,7 +12548,7 @@ MonoBehaviour:
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
-  m_DynamicPixelsPerUnit: 2
+  m_DynamicPixelsPerUnit: 5
   m_PresetInfoIsWorld: 1
 --- !u!223 &2107868191
 Canvas:
