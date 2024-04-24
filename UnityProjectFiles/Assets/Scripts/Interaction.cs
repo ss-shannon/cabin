@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+// Edited by Shannon 25/04/2024 so the escape key doesn't close the application on the WebGL build as per the studio manager's request.
+
 /// <summary>
 /// This class should be attached to the main camera.
 /// </summary>
@@ -83,9 +85,9 @@ public class Interaction : MonoBehaviour
             }
         }
 
-        if(Input.GetKeyDown(KeyCode.Escape) == true) 
+        // if(Input.GetKeyDown(KeyCode.Escape) == true) 
         {
-            Application.Quit();             //Quit application when escape is pressed
+        //    Application.Quit();             //Quit application when escape is pressed
         }
     }
 }

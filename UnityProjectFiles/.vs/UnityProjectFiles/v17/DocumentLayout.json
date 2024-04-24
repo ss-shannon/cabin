@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\assessment3\\cabin\\UnityProjectFiles\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC2D91E0-FFC9-9F8F-00FD-C2AB15A9F78A}|Assembly-CSharp.csproj|c:\\users\\admin\\documents\\github\\assessment3\\cabin\\unityprojectfiles\\assets\\scripts\\interaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DC2D91E0-FFC9-9F8F-00FD-C2AB15A9F78A}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Documents\\GitHub\\assessment3\\cabin\\UnityProjectFiles\\assets\\scripts\\interaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC2D91E0-FFC9-9F8F-00FD-C2AB15A9F78A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D91E0-FFC9-9F8F-00FD-C2AB15A9F78A}|Assembly-CSharp.csproj|c:\\users\\admin\\documents\\github\\assessment3\\cabin\\unityprojectfiles\\assets\\scripts\\navigationwaypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2D91E0-FFC9-9F8F-00FD-C2AB15A9F78A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\navigationwaypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D91E0-FFC9-9F8F-00FD-C2AB15A9F78A}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Documents\\GitHub\\assessment3\\cabin\\UnityProjectFiles\\assets\\scripts\\navigationselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2D91E0-FFC9-9F8F-00FD-C2AB15A9F78A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\navigationselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavigationWaypoint.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\assessment3\\cabin\\UnityProjectFiles\\Assets\\Scripts\\NavigationWaypoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NavigationWaypoint.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\assessment3\\cabin\\UnityProjectFiles\\Assets\\Scripts\\NavigationWaypoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NavigationWaypoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:18:42.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavigationSelect.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\assessment3\\cabin\\UnityProjectFiles\\Assets\\Scripts\\NavigationSelect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NavigationSelect.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\assessment3\\cabin\\UnityProjectFiles\\Assets\\Scripts\\NavigationSelect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NavigationSelect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:18:29.149Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +57,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Interaction.cs",
               "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\assessment3\\cabin\\UnityProjectFiles\\Assets\\Scripts\\Interaction.cs",
               "RelativeToolTip": "Assets\\Scripts\\Interaction.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAACHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-24T17:00:25.86Z",
               "EditorCaption": ""

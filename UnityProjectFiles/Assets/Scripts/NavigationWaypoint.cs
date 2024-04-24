@@ -2,8 +2,6 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-// Edited by Shannon 5/04/2024
-
 /// <summary>
 /// This class should be attached to the objects used for navigation waypoints.
 /// </summary>
@@ -12,7 +10,7 @@ public class NavigationWaypoint : InteractableObject
     [Tooltip("This is the audio clip that will play when notes are opened/closed.")]
     [SerializeField] private AudioClip interactClip;
 
-    // Teleporting the player slightly above the Navigation Waypoint.
+    // Teleporting the player slightly above the Navigation Waypoint. - 5/04/2024 Shannon
     private Vector3 offset = new Vector3(0, 1.5f, 0);
 
     private ParticleSystem particles;

@@ -1,271 +1,34 @@
 { "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
-,{ "pid":12345, "tid":0, "ts":1713978454301004, "dur":1353, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1713978454302366, "dur":240, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1713978454302639, "dur":210, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1713978454304783, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/MonoBleedingEdge/etc/mono/2.0/web.config" }}
-,{ "pid":12345, "tid":0, "ts":1713978454302864, "dur":2181, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1713978454305046, "dur":90859, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1713978454395906, "dur":173, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1713978454396079, "dur":59, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1713978454396245, "dur":6241, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
-,{ "pid":12345, "tid":1, "ts":1713978454302923, "dur":2131, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1713978454305058, "dur":2970, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1713978454308073, "dur":57, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
-,{ "pid":12345, "tid":1, "ts":1713978454308186, "dur":71, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.14f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.GridModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1713978454308379, "dur":80, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Admin\\Documents\\GitHub\\assessment3\\cabin\\UnityProjectFiles\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
-,{ "pid":12345, "tid":1, "ts":1713978454308460, "dur":80, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Admin\\Documents\\GitHub\\assessment3\\cabin\\UnityProjectFiles\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
-,{ "pid":12345, "tid":1, "ts":1713978454308541, "dur":124, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Admin\\Documents\\GitHub\\assessment3\\cabin\\UnityProjectFiles\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
-,{ "pid":12345, "tid":1, "ts":1713978454308665, "dur":190, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Admin\\Documents\\GitHub\\assessment3\\cabin\\UnityProjectFiles\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
-,{ "pid":12345, "tid":1, "ts":1713978454308856, "dur":409, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Admin\\Documents\\GitHub\\assessment3\\cabin\\UnityProjectFiles\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
-,{ "pid":12345, "tid":1, "ts":1713978454309266, "dur":53, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Admin\\Documents\\GitHub\\assessment3\\cabin\\UnityProjectFiles\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
-,{ "pid":12345, "tid":1, "ts":1713978454309320, "dur":176, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Admin\\Documents\\GitHub\\assessment3\\cabin\\UnityProjectFiles\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
-,{ "pid":12345, "tid":1, "ts":1713978454308073, "dur":1517, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
-,{ "pid":12345, "tid":1, "ts":1713978454309867, "dur":613, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/boot.config" }}
-,{ "pid":12345, "tid":1, "ts":1713978454310538, "dur":873, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":1, "ts":1713978454311589, "dur":996, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
-,{ "pid":12345, "tid":1, "ts":1713978454312669, "dur":4585, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
-,{ "pid":12345, "tid":1, "ts":1713978454317339, "dur":1276, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/System.IO.Compression.dll" }}
-,{ "pid":12345, "tid":1, "ts":1713978454318681, "dur":2265, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/System.Core.dll" }}
-,{ "pid":12345, "tid":1, "ts":1713978454321031, "dur":1686, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/Unity.VisualScripting.State.dll" }}
-,{ "pid":12345, "tid":1, "ts":1713978454322791, "dur":1923, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.WindModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1713978454324813, "dur":1994, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1713978454326872, "dur":3386, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.UIElementsModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1713978454330295, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1713978454330383, "dur":2346, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1713978454332753, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1713978454332836, "dur":2064, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1713978454334973, "dur":2525, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1713978454337567, "dur":33999, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/UnityPlayer.dll" }}
-,{ "pid":12345, "tid":1, "ts":1713978454371593, "dur":24327, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1713978454302967, "dur":2096, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1713978454305069, "dur":428, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1713978454305497, "dur":2569, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1713978454308067, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/MonoBleedingEdge/etc/mono/4.0/web.config" }}
-,{ "pid":12345, "tid":2, "ts":1713978454308120, "dur":133, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1713978454332079, "dur":746, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/MonoBleedingEdge/etc/mono/4.0/web.config" }}
-,{ "pid":12345, "tid":2, "ts":1713978454332852, "dur":161, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1713978454333027, "dur":2625, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1713978454335680, "dur":104, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1713978454335797, "dur":3481, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1713978454339526, "dur":1204, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Resources/unity_builtin_extra" }}
-,{ "pid":12345, "tid":2, "ts":1713978454340753, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1713978454344542, "dur":59, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1713978454340937, "dur":3696, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/globalgamemanagers.assets.resS" }}
-,{ "pid":12345, "tid":2, "ts":1713978454344704, "dur":51286, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1713978454302998, "dur":2077, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1713978454305078, "dur":405, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1713978454305483, "dur":2570, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1713978454308096, "dur":154, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1713978454331750, "dur":813, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":3, "ts":1713978454332639, "dur":137, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1713978454332792, "dur":2420, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.InputModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1713978454335273, "dur":2460, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1713978454337796, "dur":792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/sharedassets0.resource" }}
-,{ "pid":12345, "tid":3, "ts":1713978454338609, "dur":327, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1713978454338950, "dur":2699, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/ScriptingAssemblies.json" }}
-,{ "pid":12345, "tid":3, "ts":1713978454341781, "dur":54119, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1713978454303045, "dur":2038, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1713978454305086, "dur":414, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1713978454305500, "dur":2539, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1713978454308040, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
-,{ "pid":12345, "tid":4, "ts":1713978454308095, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1713978454313358, "dur":856, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
-,{ "pid":12345, "tid":4, "ts":1713978454314236, "dur":241, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1713978454314614, "dur":2187, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/System.Xml.dll" }}
-,{ "pid":12345, "tid":4, "ts":1713978454316863, "dur":877, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/System.Numerics.dll" }}
-,{ "pid":12345, "tid":4, "ts":1713978454317816, "dur":1578, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/System.Drawing.dll" }}
-,{ "pid":12345, "tid":4, "ts":1713978454319416, "dur":1219, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1713978454320652, "dur":1155, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/Mono.Security.dll" }}
-,{ "pid":12345, "tid":4, "ts":1713978454321873, "dur":1733, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/Unity.Timeline.dll" }}
-,{ "pid":12345, "tid":4, "ts":1713978454323637, "dur":94, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1713978454323747, "dur":1782, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.VRModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1713978454325552, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1713978454325636, "dur":2063, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1713978454327722, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1713978454327801, "dur":2351, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1713978454330233, "dur":1453, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1713978454331757, "dur":2694, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1713978454334473, "dur":149, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1713978454334637, "dur":2257, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1713978454336923, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1713978454336993, "dur":4188, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1713978454341202, "dur":54702, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1713978454303091, "dur":2001, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1713978454305095, "dur":432, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1713978454305527, "dur":2507, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1713978454309342, "dur":934, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/MonoBleedingEdge/etc/mono/browscap.ini" }}
-,{ "pid":12345, "tid":5, "ts":1713978454310486, "dur":957, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
-,{ "pid":12345, "tid":5, "ts":1713978454311588, "dur":873, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
-,{ "pid":12345, "tid":5, "ts":1713978454312623, "dur":755, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
-,{ "pid":12345, "tid":5, "ts":1713978454314077, "dur":2907, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/mscorlib.dll" }}
-,{ "pid":12345, "tid":5, "ts":1713978454317007, "dur":168, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1713978454317200, "dur":914, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/System.Net.Http.dll" }}
-,{ "pid":12345, "tid":5, "ts":1713978454318145, "dur":200, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1713978454318361, "dur":2368, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/System.Data.DataSetExtensions.dll" }}
-,{ "pid":12345, "tid":5, "ts":1713978454320799, "dur":1257, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
-,{ "pid":12345, "tid":5, "ts":1713978454322079, "dur":182, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1713978454322274, "dur":1650, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.dll" }}
-,{ "pid":12345, "tid":5, "ts":1713978454323945, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1713978454324014, "dur":1977, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1713978454328238, "dur":90, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1713978454326079, "dur":2281, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.UmbraModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1713978454328386, "dur":187, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1713978454328587, "dur":2164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1713978454330772, "dur":91, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1713978454330875, "dur":2675, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.PhysicsModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1713978454333582, "dur":131, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1713978454333728, "dur":2408, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.GridModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1713978454336200, "dur":3442, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1713978454339667, "dur":281, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1713978454339962, "dur":15496, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/level0.resS" }}
-,{ "pid":12345, "tid":5, "ts":1713978454355485, "dur":40435, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1713978454303134, "dur":1966, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1713978454305104, "dur":368, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1713978454305472, "dur":2558, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1713978454308460, "dur":2590, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/UnityCrashHandler64.exe" }}
-,{ "pid":12345, "tid":6, "ts":1713978454311405, "dur":541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":6, "ts":1713978454312087, "dur":666, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":6, "ts":1713978454312815, "dur":875, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour.exe" }}
-,{ "pid":12345, "tid":6, "ts":1713978454313721, "dur":120, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1713978454314069, "dur":2325, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/System.dll" }}
-,{ "pid":12345, "tid":6, "ts":1713978454316456, "dur":1018, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/System.Security.dll" }}
-,{ "pid":12345, "tid":6, "ts":1713978454317521, "dur":1380, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/System.EnterpriseServices.dll" }}
-,{ "pid":12345, "tid":6, "ts":1713978454318969, "dur":2194, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/System.Configuration.dll" }}
-,{ "pid":12345, "tid":6, "ts":1713978454321184, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1713978454321282, "dur":1861, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/Unity.TextMeshPro.dll" }}
-,{ "pid":12345, "tid":6, "ts":1713978454323160, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1713978454323236, "dur":1960, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.VehiclesModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1713978454325258, "dur":2077, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1713978454327369, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1713978454327456, "dur":2319, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1713978454329855, "dur":2572, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1713978454332458, "dur":164, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1713978454332649, "dur":2078, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1713978454334755, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1713978454334831, "dur":2381, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1713978454337305, "dur":5022, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.AIModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1713978454342350, "dur":53553, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1713978454303161, "dur":1947, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1713978454305110, "dur":396, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1713978454305506, "dur":2545, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1713978454308108, "dur":132, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1713978454319766, "dur":507, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":7, "ts":1713978454320296, "dur":338, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1713978454320649, "dur":1218, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/netstandard.dll" }}
-,{ "pid":12345, "tid":7, "ts":1713978454321892, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1713978454321976, "dur":1681, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/Assembly-CSharp.dll" }}
-,{ "pid":12345, "tid":7, "ts":1713978454323744, "dur":1928, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.VFXModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1713978454325704, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1713978454325786, "dur":2192, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1713978454328061, "dur":2612, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.TLSModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1713978454330773, "dur":2557, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.ProfilerModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1713978454333363, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1713978454333467, "dur":2309, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.IMGUIModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1713978454335893, "dur":2377, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.ClothModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1713978454338341, "dur":44859, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/sharedassets0.assets" }}
-,{ "pid":12345, "tid":7, "ts":1713978454383226, "dur":12680, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1713978454303199, "dur":1917, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1713978454305120, "dur":422, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1713978454305542, "dur":2494, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1713978454308046, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
-,{ "pid":12345, "tid":8, "ts":1713978454308096, "dur":147, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1713978454323961, "dur":898, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
-,{ "pid":12345, "tid":8, "ts":1713978454324930, "dur":1984, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1713978454326936, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1713978454327033, "dur":2591, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.TilemapModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1713978454329645, "dur":194, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1713978454329860, "dur":1475, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1713978454331360, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1713978454331462, "dur":2579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1713978454334076, "dur":98, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1713978454334213, "dur":2392, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.GIModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1713978454336675, "dur":4436, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1713978454341184, "dur":3713, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/globalgamemanagers" }}
-,{ "pid":12345, "tid":8, "ts":1713978454344951, "dur":50960, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1713978454303235, "dur":1890, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1713978454305128, "dur":125, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1713978454305253, "dur":2776, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1713978454308040, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1713978454308102, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1713978454313661, "dur":1150, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/app.info" }}
-,{ "pid":12345, "tid":9, "ts":1713978454314862, "dur":1202, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/System.Xml.Linq.dll" }}
-,{ "pid":12345, "tid":9, "ts":1713978454316088, "dur":202, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1713978454316323, "dur":1146, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/System.ServiceModel.Internals.dll" }}
-,{ "pid":12345, "tid":9, "ts":1713978454317518, "dur":1550, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/System.IO.Compression.FileSystem.dll" }}
-,{ "pid":12345, "tid":9, "ts":1713978454319152, "dur":2095, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/System.ComponentModel.Composition.dll" }}
-,{ "pid":12345, "tid":9, "ts":1713978454321274, "dur":113, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1713978454321401, "dur":1727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.UI.dll" }}
-,{ "pid":12345, "tid":9, "ts":1713978454323150, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1713978454323224, "dur":1871, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.VideoModule.dll" }}
-,{ "pid":12345, "tid":9, "ts":1713978454325185, "dur":2158, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
-,{ "pid":12345, "tid":9, "ts":1713978454327375, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1713978454327445, "dur":2513, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
-,{ "pid":12345, "tid":9, "ts":1713978454329982, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1713978454330117, "dur":2074, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
-,{ "pid":12345, "tid":9, "ts":1713978454332215, "dur":228, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1713978454332456, "dur":2403, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.LocalizationModule.dll" }}
-,{ "pid":12345, "tid":9, "ts":1713978454334965, "dur":3067, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.CoreModule.dll" }}
-,{ "pid":12345, "tid":9, "ts":1713978454338097, "dur":57747, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/sharedassets0.assets.resS" }}
-,{ "pid":12345, "tid":10, "ts":1713978454303272, "dur":1861, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1713978454305133, "dur":2898, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1713978454308035, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
-,{ "pid":12345, "tid":10, "ts":1713978454308095, "dur":147, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1713978454320361, "dur":530, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
-,{ "pid":12345, "tid":10, "ts":1713978454320928, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1713978454321002, "dur":1560, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/Unity.VisualScripting.Flow.dll" }}
-,{ "pid":12345, "tid":10, "ts":1713978454322627, "dur":1724, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.XRModule.dll" }}
-,{ "pid":12345, "tid":10, "ts":1713978454324445, "dur":1841, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
-,{ "pid":12345, "tid":10, "ts":1713978454326354, "dur":2313, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.UIModule.dll" }}
-,{ "pid":12345, "tid":10, "ts":1713978454328690, "dur":103, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1713978454328819, "dur":2040, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.SubstanceModule.dll" }}
-,{ "pid":12345, "tid":10, "ts":1713978454330989, "dur":2817, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.Physics2DModule.dll" }}
-,{ "pid":12345, "tid":10, "ts":1713978454333872, "dur":2538, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.GameCenterModule.dll" }}
-,{ "pid":12345, "tid":10, "ts":1713978454336490, "dur":3687, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.AnimationModule.dll" }}
-,{ "pid":12345, "tid":10, "ts":1713978454340208, "dur":604, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1713978454340829, "dur":2042, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/level0" }}
-,{ "pid":12345, "tid":10, "ts":1713978454342918, "dur":52991, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1713978454303298, "dur":1842, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1713978454305140, "dur":2892, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1713978454308084, "dur":160, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1713978454324265, "dur":752, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/MonoBleedingEdge/etc/mono/config" }}
-,{ "pid":12345, "tid":11, "ts":1713978454325051, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1713978454325133, "dur":1873, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
-,{ "pid":12345, "tid":11, "ts":1713978454327035, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1713978454327122, "dur":2491, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
-,{ "pid":12345, "tid":11, "ts":1713978454329642, "dur":198, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1713978454329866, "dur":1482, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.StreamingModule.dll" }}
-,{ "pid":12345, "tid":11, "ts":1713978454331368, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1713978454331459, "dur":2723, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
-,{ "pid":12345, "tid":11, "ts":1713978454334204, "dur":82, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1713978454334300, "dur":2611, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.DirectorModule.dll" }}
-,{ "pid":12345, "tid":11, "ts":1713978454336990, "dur":4126, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.ARModule.dll" }}
-,{ "pid":12345, "tid":11, "ts":1713978454341170, "dur":3129, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/globalgamemanagers.assets" }}
-,{ "pid":12345, "tid":11, "ts":1713978454344325, "dur":51583, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1713978454303330, "dur":1823, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1713978454305154, "dur":2881, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1713978454308074, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1713978454309458, "dur":736, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/MonoBleedingEdge/etc/mono/4.5/web.config" }}
-,{ "pid":12345, "tid":12, "ts":1713978454310479, "dur":797, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
-,{ "pid":12345, "tid":12, "ts":1713978454311530, "dur":672, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/MonoBleedingEdge/etc/mono/2.0/web.config" }}
-,{ "pid":12345, "tid":12, "ts":1713978454312244, "dur":158, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1713978454312543, "dur":726, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":12, "ts":1713978454313885, "dur":1926, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Resources/unity default resources" }}
-,{ "pid":12345, "tid":12, "ts":1713978454315899, "dur":872, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/System.Transactions.dll" }}
-,{ "pid":12345, "tid":12, "ts":1713978454316858, "dur":1240, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/System.Runtime.Serialization.dll" }}
-,{ "pid":12345, "tid":12, "ts":1713978454318137, "dur":208, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1713978454318358, "dur":2624, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/System.Data.dll" }}
-,{ "pid":12345, "tid":12, "ts":1713978454321039, "dur":1833, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/Unity.VisualScripting.Core.dll" }}
-,{ "pid":12345, "tid":12, "ts":1713978454322893, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1713978454322957, "dur":2126, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
-,{ "pid":12345, "tid":12, "ts":1713978454325184, "dur":2662, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
-,{ "pid":12345, "tid":12, "ts":1713978454327933, "dur":2681, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.TerrainModule.dll" }}
-,{ "pid":12345, "tid":12, "ts":1713978454330646, "dur":98, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1713978454330771, "dur":2628, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.PropertiesModule.dll" }}
-,{ "pid":12345, "tid":12, "ts":1713978454333438, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1713978454333524, "dur":2270, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.HotReloadModule.dll" }}
-,{ "pid":12345, "tid":12, "ts":1713978454335821, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1713978454335898, "dur":3236, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/Managed/UnityEngine.AudioModule.dll" }}
-,{ "pid":12345, "tid":12, "ts":1713978454339181, "dur":3390, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Admin/Downloads/Builds/GoldMaster_Windows/Cabin in the Woods Virtual Tour_Data/RuntimeInitializeOnLoads.json" }}
-,{ "pid":12345, "tid":12, "ts":1713978454342639, "dur":53263, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1713978454405305, "dur":827, "ph":"X", "name": "ProfilerWriteOutput" }
+,{ "pid":12345, "tid":0, "ts":1713979621459149, "dur":8106, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1713979621467264, "dur":2789, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1713979621470234, "dur":209, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1713979621470454, "dur":7306, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1713979621477763, "dur":832, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1713979621478596, "dur":1104, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1713979621479766, "dur":4718, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1713979621470639, "dur":7154, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1713979621477798, "dur":1876, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1713979621470718, "dur":7109, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1713979621477831, "dur":1463, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1713979621470631, "dur":7151, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1713979621477787, "dur":1142, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1713979621470771, "dur":7068, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1713979621477842, "dur":964, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1713979621470888, "dur":6973, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1713979621477865, "dur":1448, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1713979621470683, "dur":7136, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1713979621477823, "dur":1692, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1713979621470673, "dur":7132, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1713979621477810, "dur":1835, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1713979621470726, "dur":7107, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1713979621477836, "dur":1081, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1713979621470626, "dur":7146, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1713979621477776, "dur":812, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1713979621470800, "dur":7046, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1713979621477850, "dur":1663, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1713979621470851, "dur":7006, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1713979621477859, "dur":1440, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1713979621470924, "dur":6948, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1713979621477873, "dur":1463, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1713979621486675, "dur":171, "ph":"X", "name": "ProfilerWriteOutput" }
 ,
