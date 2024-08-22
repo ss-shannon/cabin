@@ -1,9 +1,9 @@
-<!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 This project is a gamification of a virtual house tour. It was made as part of the Certificate IV in Information Technology (Gaming Development), for the Introduction to Game Design (ICTGAM420 and ICTGAM421) units.
 
-The project involved adding C# scripts, audio and UI elements to a pre-made Unity game scene. 
+The project involved adding C# scripts, audio and UI elements to a pre-made Unity game scene. I was assessed on my ability to create design elements that aligned with a specific identified target audience.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -18,7 +18,7 @@ This project was built using the Unity Game Engine.
 
 
 
-<!-- ROADMAP -->
+
 ## Roadmap
 
 - [x] Source assets.
@@ -45,7 +45,7 @@ This project was built using the Unity Game Engine.
 
 
 
-<!-- ACKNOWLEDGMENTS -->
+
 ## Acknowledgments
 
 
